@@ -1,0 +1,1 @@
+export class NullArgumentException extends Error {}
